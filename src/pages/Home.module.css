@@ -1,0 +1,15 @@
+.h1{
+    color:darksalmon;
+}
+.items{
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+}
+.NavLink{
+    color:darksalmon;
+    text-decoration:none;
+}
+.NavLink:hover{
+    color:  darkolivegreen;
+}

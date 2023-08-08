@@ -1,0 +1,25 @@
+.input{
+    border-width: 0;
+}
+.search{
+    border-width: 0;
+    background-color: white;
+}
+.problem{
+    font-size: 30px;
+    color: darksalmon;
+}
+.li{
+    display: grid;
+    list-style: none;
+}
+img{
+    margin-bottom: 15px;
+}
+.NavLink{
+    color:darksalmon;
+    text-decoration:none;
+}
+.NavLink:focus{
+    color:  darkolivegreen;
+}
