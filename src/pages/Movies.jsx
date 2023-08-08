@@ -1,6 +1,6 @@
 import s from "./Movies.module.css";
 import { NavLink } from "react-router-dom";
-import { useEffect,useState } from "react";
+import { useState } from "react";
 
 
 export default function Movies () {
